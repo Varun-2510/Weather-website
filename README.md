@@ -15,13 +15,16 @@ Developed a weather forecasting website which can be used to tell about weather 
 
 ### Built With
 
-* HTML
-* CSS
-* JS
-* BOOTSTRAP
-* NODE JS
-* HANDLEBARS (HBS)
+## Front End Languages
+[![forthebadge](https://img.shields.io/badge/USES-HTML-blue)](http://forthebadge.com)
+[![forthebadge](https://img.shields.io/badge/USES-CSS-blue)](http://forthebadge.com)
+[![forthebadge](https://img.shields.io/badge/USES-JavaScript-blue)](http://forthebadge.com)
+[![forthebadge](https://img.shields.io/badge/USES-Bootstrap-blue)](http://forthebadge.com)
+[![forthebadge](https://img.shields.io/badge/USES-Handlebars-blue)](http://forthebadge.com)
 
+## Back End Langage
+
+[![forthebadge](https://img.shields.io/badge/USES-ExpressJs-aqua)](http://forthebadge.com)
 ## Installations:
 
 * First Fork this project and download on your desktop.
